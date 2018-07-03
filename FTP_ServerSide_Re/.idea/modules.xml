@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FTP_ClientSide/.idea/FTP_ClientSide.iml" filepath="$PROJECT_DIR$/../FTP_ClientSide/.idea/FTP_ClientSide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FTP_ServerSide/.idea/FTP_ServerSide.iml" filepath="$PROJECT_DIR$/../FTP_ServerSide/.idea/FTP_ServerSide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FTP_ServerSide_Re.iml" filepath="$PROJECT_DIR$/.idea/FTP_ServerSide_Re.iml" />
+    </modules>
+  </component>
+</project>
